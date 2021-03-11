@@ -23,3 +23,8 @@ module.exports = {
     return sendError("Não há nada reproduzindo neste servidor.", message.channel);
   },
 };
+
+
+
+
+
