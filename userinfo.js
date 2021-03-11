@@ -66,3 +66,6 @@ function formatDate (template, date) {
     return template.split(specs[i]).join(item)
   }, template)
 }
+
+
+
